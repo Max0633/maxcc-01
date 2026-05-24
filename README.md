@@ -1,3 +1,7 @@
+<p align="right">
+  <b>English</b> | <a href="README_zh.md">中文</a>
+</p>
+
 # NASDAQ Composite Index — Deep Analysis Dashboard
 
 Interactive Plotly dashboard covering NASDAQ 1971–2026 (13,941 trading days).
